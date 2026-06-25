@@ -2,6 +2,8 @@
 
 A small JSON API that classifies customer support tickets into case type, severity, department, and a short agent summary.
 
+**Live Deployment:** https://mockpreli-gc6j.vercel.app/
+
 ## Endpoints
 
 - `GET /health` returns service health.
