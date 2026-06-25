@@ -8,10 +8,5 @@
       "source": "/sort-ticket",
       "destination": "/api/sort_ticket"
     }
-  ],
-  "functions": {
-    "api/**/*.py": {
-      "runtime": "python3.14"
-    }
-  }
+  ]
 }
